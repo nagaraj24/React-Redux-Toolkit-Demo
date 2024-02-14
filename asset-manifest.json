@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd99482e.css",
-    "main.js": "/static/js/main.e16bd621.js",
-    "static/js/592.d356943b.chunk.js": "/static/js/592.d356943b.chunk.js",
-    "index.html": "/index.html",
-    "main.fd99482e.css.map": "/static/css/main.fd99482e.css.map",
-    "main.e16bd621.js.map": "/static/js/main.e16bd621.js.map",
-    "592.d356943b.chunk.js.map": "/static/js/592.d356943b.chunk.js.map"
+    "main.css": "/React-Redux-Toolkit-Demo/static/css/main.fd99482e.css",
+    "main.js": "/React-Redux-Toolkit-Demo/static/js/main.f3c4729e.js",
+    "static/js/592.d356943b.chunk.js": "/React-Redux-Toolkit-Demo/static/js/592.d356943b.chunk.js",
+    "index.html": "/React-Redux-Toolkit-Demo/index.html",
+    "main.fd99482e.css.map": "/React-Redux-Toolkit-Demo/static/css/main.fd99482e.css.map",
+    "main.f3c4729e.js.map": "/React-Redux-Toolkit-Demo/static/js/main.f3c4729e.js.map",
+    "592.d356943b.chunk.js.map": "/React-Redux-Toolkit-Demo/static/js/592.d356943b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd99482e.css",
-    "static/js/main.e16bd621.js"
+    "static/js/main.f3c4729e.js"
   ]
 }
